@@ -14,7 +14,7 @@ _Get started using GitHub in less than an hour._
 </header>
 
 <!--
-  <<< Author notes: Step 1 >>>
+  <<< Author notes: Step 01 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
